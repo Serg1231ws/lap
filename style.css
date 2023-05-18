@@ -1,0 +1,124 @@
+body {
+    font-family: sans-serif;
+    background-color: lime;
+}
+
+header {
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex ;
+    background-color: blueviolet;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    color: white ;
+    display: flex; 
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    color: white;;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+    color: black ;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px auto 0px auto;
+    max-width: 1100px;
+}
+
+article {
+    background-color: white;
+    padding: 0px;
+    width: 400px;
+    margin: 15px ;
+    display: block;
+    float: left;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color:#FFAA00;
+    color: black;
+    font-size: 24px;
+    padding: 10px 75px 10px 75px;
+    text-align: center;
+    margin-left: 50px;
+}
+.article-tut {
+    text-decoration: none;
+    background-color: blue;
+    color: black;
+    font-size: 24px;
+    padding: 10px 75px 10px 75px;
+    text-align: center;
+    margin-left: 50px;
+}
+.article-kilo {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: black;
+    font-size: 24px;
+    padding: 10px 75px 10px 75px;
+    text-align: center;
+    margin-left: 50px;
+}
+.article-vor {
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+    padding: 10px 75px 10px 75px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+footer {
+    background-color:#FFE400;
+    padding: ;
+    width: 100%;
+    min-height: 270px;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+    color: black;
+}
+.footeringel {
+    width: 100%;
+    min-height: 270px;
+}
+
